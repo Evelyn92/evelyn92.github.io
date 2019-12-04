@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://evelyn92.github.io/post/first/</loc>
-    <lastmod>2019-12-04T11:45:40+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://evelyn92.github.io/</loc>
-    <lastmod>2019-12-04T11:45:40+08:00</lastmod>
+    <lastmod>2019-12-04T11:02:11+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://evelyn92.github.io/post/</loc>
-    <lastmod>2019-12-04T11:45:40+08:00</lastmod>
+    <lastmod>2019-12-04T11:02:11+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://evelyn92.github.io/post/second/</loc>
     <lastmod>2019-12-04T11:02:11+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://evelyn92.github.io/post/first/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
