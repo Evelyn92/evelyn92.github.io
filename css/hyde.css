@@ -57,7 +57,8 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
-  background-color: #202020;
+  /*background-color: #202020;*/
+  background-color: #75b5aa;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -109,7 +110,7 @@ a.sidebar-nav-item:focus {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    bottom: 1rem;
+    top:  5rem;/*这里进行了改动 Evelyn*/
     left:   1rem;
   }
 }
