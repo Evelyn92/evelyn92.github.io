@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -260,6 +261,40 @@ subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
 caluere tempus&lt;/p&gt;</description>
       </item>
       
+=======
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labyrinth</title>
+    <link>https://evelyn92.github.io/</link>
+    <description>Recent content on Labyrinth</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2019 11:02:11 +0800</lastBuildDate>
+    
+	<atom:link href="https://evelyn92.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Information theory and coding </title>
+      <link>https://evelyn92.github.io/post/first/</link>
+      <pubDate>Thu, 05 Dec 2019 11:02:11 +0800</pubDate>
+      
+      <guid>https://evelyn92.github.io/post/first/</guid>
+      <description>1. Introduction It is a discipline that applies the methods of ==probability theory==, ==stochastic processes== , ==mathematical statistics== , and ==modern algebra== to study general laws in information transmission, extraction, and processing.
+1.1 It researches the basic problem of  Information theory—Measurement of information Distortion-Free Source Coding Theorem-Shannon&#39;s First Theorem Channel coding theorem-Shannon&#39;s second theorem Source coding, channel coding  1.2 Some important concepts   Sample space: The various states in which something can occur</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>https://evelyn92.github.io/post/second/</link>
+      <pubDate>Wed, 04 Dec 2019 11:02:11 +0800</pubDate>
+      
+      <guid>https://evelyn92.github.io/post/second/</guid>
+      <description>第一篇博文？
+introduction  aim:prepare for aps deadline:January age:21  cv  what when where  </description>
+    </item>
+>>>>>>> 8e6691ee3ebfdd91e33f8d694e167f984067ab5b
     
   </channel>
 </rss>
